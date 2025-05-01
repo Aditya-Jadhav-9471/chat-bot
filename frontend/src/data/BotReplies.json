@@ -1,0 +1,88 @@
+{
+  "common_questions": {
+    "greeting": {
+      "questions": ["hello", "hi", "hey", "hi there"],
+      "answer": "Hello! How can I assist you today?"
+    },
+    "agent": {
+      "questions": ["agent", "connect to an agent", "talk to an agent", "give me an agent", "need an agent"],
+      "answer": "Connecting you to an agent... Please wait a moment."
+    },
+    "help": {
+      "questions": ["help", "how can you help me", "what can you do", "can you assist me"],
+      "answer": "I'm here to help you with any questions you have! What can I assist you with today?"
+    },
+    "thanks": {
+      "questions": ["thanks", "thank you", "appreciate it", "thanks a lot"],
+      "answer": "You're welcome! If you need further assistance, feel free to ask."
+    },
+    "goodbye": {
+      "questions": ["goodbye", "bye", "see you later", "talk to you later"],
+      "answer": "Goodbye! Have a great day ahead."
+    },
+    "support_hours": {
+      "questions": ["what are your support hours", "when are you available", "support hours", "working hours"],
+      "answer": "Our support team is available 24/7. Feel free to reach out anytime!"
+    },
+    "location": {
+      "questions": ["where are you located", "location", "where is your office"],
+      "answer": "We are an online service, so we don't have a physical office. We're always available online!"
+    },
+    "refund_policy": {
+      "questions": ["refund policy", "how can I get a refund", "can I get my money back"],
+      "answer": "Please contact our support team for assistance with refunds. We'll make sure to help you out!"
+    },
+    "pricing": {
+      "questions": ["how much does it cost", "pricing", "what is your price", "how much is it"],
+      "answer": "Please visit our pricing page or contact support for detailed pricing information."
+    },
+    "features": {
+      "questions": ["what are the features", "features", "what does it do", "what are the benefits"],
+      "answer": "Our product includes a variety of features such as chat integration, user tracking, and more. Check our features page for more details."
+    },
+    "account_help": {
+      "questions": ["how do I create an account", "how to sign up", "sign up", "create an account"],
+      "answer": "To create an account, simply visit our sign-up page and follow the instructions."
+    },
+    "password_reset": {
+      "questions": ["password reset", "forgot password", "reset my password", "change password"],
+      "answer": "You can reset your password by clicking the 'Forgot Password' link on the login page."
+    },
+    "terms_of_service": {
+      "questions": ["terms of service", "TOS", "terms and conditions"],
+      "answer": "Please review our Terms of Service on our website for more information."
+    },
+    "privacy_policy": {
+      "questions": ["privacy policy", "what is your privacy policy", "how do you handle my data"],
+      "answer": "Your privacy is important to us. Please check our Privacy Policy for details on how we protect your information."
+    },
+    "technical_support": {
+      "questions": ["technical support", "I'm having issues", "technical help", "problem with the service"],
+      "answer": "For technical support, please reach out to our team, and we'll be happy to assist you."
+    },
+    "account_deletion": {
+      "questions": ["delete account", "how to delete my account", "remove my account"],
+      "answer": "If you wish to delete your account, please contact support, and we'll assist you with that process."
+    },
+    "bug_report": {
+      "questions": ["bug report", "report a bug", "found a bug", "issues with the service"],
+      "answer": "If you encounter any bugs, please report them via our support page. We'll work to resolve them ASAP."
+    },
+    "payment_methods": {
+      "questions": ["payment methods", "how can I pay", "payment options", "what payment do you accept"],
+      "answer": "We accept payments via credit card, PayPal, and other methods. Please visit our payment page for more details."
+    },
+    "security": {
+      "questions": ["is it safe", "how secure is this", "data security", "is my data protected"],
+      "answer": "We prioritize security and use industry-standard encryption to protect your data."
+    },
+    "installation": {
+      "questions": ["how to install", "installation guide", "how do I get started", "getting started"],
+      "answer": "Please refer to our installation guide on the support page for detailed instructions."
+    },
+    "feedback": {
+      "questions": ["feedback", "give feedback", "how can I provide feedback", "I have suggestions"],
+      "answer": "We value your feedback! Please share your thoughts with us via the feedback form on our website."
+    }
+  }
+}
